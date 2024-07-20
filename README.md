@@ -1,4 +1,4 @@
-## Hello, My name is Vitor 👋
+<h1>Hello, My name is Vitor 👋</h1>
 
 <div>
   <img alt="my status" align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api?username=vitoremsb&show_icons=true&theme=radical"/>
@@ -27,7 +27,7 @@
   <br/><br/>
 </div>
 
-## Languages ​​I use to develop
+<h1>Languages ​​I use to develop</h1>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" align="left center" width="70" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" align="left center" width="70" height="50"/>
@@ -37,7 +37,7 @@
   <br/><br/><br/>
 </div>
 
-## SGBDS
+<h1>SGBDs</h1>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" align="left center" width="70" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" align="left center" width="70" height="50"/>
@@ -46,7 +46,7 @@
    <br/><br/><br/>
 </div>
 
-## Tools
+<h1>Tools</h1>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" align="left" width="70" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" align="left" width="70" height="50"/>
@@ -66,10 +66,20 @@
   <br/><br/><br/>
 </div>
 
-## Portfolio
+<h1>Portfolio</h1>
 <div>
   <ul>
     <li><a href="https://vitoremsb.github.io/meu-portifolio/">My site</a></li>
   </ul>
+</div>
+
+<h1>Contact</h1>
+<div>
+  <a href="mailto:vitoremmanuelprofissionalti@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/50/gmail-new.png" align="left" width="50" height="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-emmanuel-2129ba277/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="left" width="50" height="50"/>
+  </a>
 </div>
 
