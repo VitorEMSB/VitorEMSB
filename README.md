@@ -8,7 +8,7 @@
 
 ## Presentation
 <div>
-  <p align="justify">
+  <p align="justify" width="100">
     Hello, I'm Vitor, since I was little I've always really enjoyed studying everything related to technology and in 2019 I had my first contact with programming.
   </p>
   <p align="justify">
@@ -24,7 +24,7 @@
   <p align="justify">
     If you have any ideas for a project that I could be useful in, please contact me.
   </p>
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 ## Languages ​​I use to develop
@@ -57,10 +57,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" align="left" width="70" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align="left" width="70" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" align="left" width="70" height="50"/>
+  <br/><br/><br/>
+</div>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"  align="left" width="70" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" align="left" width="70" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" align="left" width="70" height="50"/>
-  <br/><br/><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"  align="left" width="70" height="60"/>
   <br/><br/><br/>
 </div>
 
